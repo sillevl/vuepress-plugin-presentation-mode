@@ -1,1 +1,3 @@
 # Presentation mode plugin for the Vuepress default theme
+
+Add a hotkey `p` to hide or show the sidebar...
