@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-plugin-presentation-mode",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sille Van Landschoot <info@sillevl.be>",
+  "license": "MIT",
+  "dependencies": {
+    "mousetrap": "^1.6.5"
+  }
+}
